@@ -1,0 +1,9 @@
+authentication:
+  account_id: "d075c94fa0545e5814121550916fbcb2"
+  email: heni.fazzani@gmail.com
+  key: 91757c2d0eeb558c7ba2ad443b27807b1509e
+api:
+  base_url: "https://api.cloudflare.com/client/v4/"
+log:
+  file_path: "."
+  level: "INFO"
